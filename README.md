@@ -10,5 +10,7 @@ Streamlit for creating an interactive web application to visualize predictions.
 Joblib for efficient model serialization and deployment.
 This project aims to provide valuable insights into financial risk, aiding users in making informed decisions.
 
+view this project in live:
+https://finance-risk-predictor.onrender.com/
 
 
